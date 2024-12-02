@@ -30,3 +30,7 @@ Sendo a idade dos clientes representada pela variável valor.
 
 # Como executar o código:
 
+Para executar o código, utilize o seguinte comando:
+
+'''bash
+git https://github.com/lukassantarem/fila_virtual.git
